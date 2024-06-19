@@ -1,6 +1,12 @@
-#include<bits/stdc++.h>
 
+#include <iostream>
+using namespace std;
+#include <bits/stdc++.h>
 
+int main()
+{
+    cout << "hello world" << endl;
+}
 // approach 1
 
 class Solution
